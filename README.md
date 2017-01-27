@@ -1,7 +1,9 @@
 # Barracks + Nordic DFU exemple #
 
-This  exemple app shows you how to push an update from [Barracks](https://barracks.io/) to a [Nordic NRF52](https://www.nordicsemi.com/Products/nRF52-Series-SoC) board, using the NordicDFU library and the Barracks SDK.
-![Nordic-nRF52-Series-redefines-single-chip-Bluetooth-Smart-by-marrying-barrier-breaking-performance-and-power-efficiency-with-on-chip-NFC-for-Touch-to-Pair.jpg](https://bitbucket.org/repo/zxrXpb/images/3082965743-Nordic-nRF52-Series-redefines-single-chip-Bluetooth-Smart-by-marrying-barrier-breaking-performance-and-power-efficiency-with-on-chip-NFC-for-Touch-to-Pair.jpg)
+This  exemple app shows you how to push an update from [Barracks](https://barracks.io/) to a [Nordic NRF52](https://www.nordicsemi.com/Products/nRF52-Series-SoC) board using the Barracks SDK and the Nordic DFU Library
+
+![alt tag](https://www.nordicsemi.com/var/ezwebin_site/storage/images/news/news-releases/product-related-news/nordic-nrf52-series-redefines-single-chip-bluetooth-smart-by-marrying-barrier-breaking-performance-and-power-efficiency-with-on-chip-nfc-for-touch-to-pair/1479174-2-eng-GB/Nordic-nRF52-Series-redefines-single-chip-Bluetooth-Smart-by-marrying-barrier-breaking-performance-and-power-efficiency-with-on-chip-NFC-for-Touch-to-Pair.jpg)
+
 
 ## You should take a look at : ##
 * The [iOS Barracks SDK](https://github.com/barracksiot/ios-osx-client)
