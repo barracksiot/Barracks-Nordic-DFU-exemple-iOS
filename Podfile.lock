@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (4.0.1)
+  - Barracks (1.1.0):
+    - Alamofire (~> 4.0.0)
+    - CryptoSwift (~> 0.6.0)
+  - CryptoSwift (0.6.7)
+  - iOSDFULibrary (3.0.6):
+    - Zip (~> 0.6)
+  - Zip (0.6.0)
+
+DEPENDENCIES:
+  - Barracks
+  - iOSDFULibrary
+
+SPEC CHECKSUMS:
+  Alamofire: 7682d43245de14874acd142ec137b144aa1dd335
+  Barracks: 26a6f1dd31ef265942a8b660354cfd600b8e1f8d
+  CryptoSwift: 685ae257941e5447474348a2b545583e1a16b573
+  iOSDFULibrary: e9f7838a54eed84228669c7739d8d7ed98d3da31
+  Zip: 805fc2fa9d2f05bbb7762d982d7a42ccdcc51f42
+
+PODFILE CHECKSUM: f32f0d7dc0fde575956ced7884f457851ea0d621
+
+COCOAPODS: 1.1.1
